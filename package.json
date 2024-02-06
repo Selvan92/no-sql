@@ -1,0 +1,26 @@
+{
+  "name": "hw_18-nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morganbb104/HW_18-NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morganbb104/HW_18-NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Morganbb104/HW_18-NoSQL-Social-Network-API#readme"
+}
